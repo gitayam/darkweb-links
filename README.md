@@ -10,6 +10,15 @@ The dark web is not just for "CRIME", it is also for privacy and bypassing censo
 | Protonmail | https://protonmailrmez3lotccipshtkleegetolb73fuirgj7r4o4vfu7ozyd.onion/ | Email  |
 | BBC News | https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion/ |  News   |
 | New York Times | https://nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion/ |  News  |
+| The Intercept  | 
+    https://27m3p2uv7igmj6kvd4ql3cct5h3sdwrsajovkkndeufumzyfhlfev4qd.onion
+  | News  |
+|  BBC | 
+    https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion
+  | News  |
+|  Facebook | 
+    https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+  | Social Media  |
 | ProPublica | http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/ |  News   |
 | CIA | http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/ |  Government   |
 | CloudFlare | https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/ |  Web   |
@@ -33,3 +42,13 @@ The dark web is not just for "CRIME", it is also for privacy and bypassing censo
 | SONOR Chat | http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/ |  Communication   |
 | SNOPYT PRIVACY SERVICES | http://cct5wy6mzgmft24xzw6zeaf55aaqmo6324gjlsghdhbiw5gdaaf4pkad.onion/ |  Web Services   |
 | 8CHAN | http://4usoivrpy52lmc4mgn2h34cmfiltslesthr56yttv2pxudd3dapqciyd.onion/ |  Forum   |
+
+# Code Projects
+|  Service   |  TOR URL   |   Comments  |
+| --- | --- | --- |
+|  acab Gitlab | http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/explore  | Code Hosting   |
+|  0xacab | http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion:44203/  | Code Hosting  |
+| Signal Boost  | http://wmj5kiic7b6kjplpbvwadnht2nh2qnkbnqtcv3dyvpqtz7ssbssftxid.onion/team-friendo/signalboost  |  Signalboost is a rapid response tool made by and for activists. It enables users to send encrypted text alerts over the Signal messaging service to mass subscriber lists without revealing the sender's phone number to recipients or recipients' phone numbers to each other -- for free |
+|   |   |   |
+|   |   |   |
+|   |   |   |
