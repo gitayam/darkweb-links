@@ -24,6 +24,10 @@ The dark web is not just for "CRIME", it is also for privacy and bypassing censo
 | CloudFlare | https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/ |  Web   |
 | searX | http://z5vawdol25vrmorm4yydmohsd4u6rdoj2sylvoi3e3nqvxkvpqul7bqd.onion/ | search Engine |
 
+|  Service   |  TOR URL   |   Comments  |
+| --- | --- | --- |
+| Mullvad VPN | http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/ | VPN    |
+
 
 # Dark Web
 
@@ -38,6 +42,7 @@ The dark web is not just for "CRIME", it is also for privacy and bypassing censo
 | Books | http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/archives/books/ |     |
 | DarknetLive | http://darkzzx4avcsuofgfez5zq75cqc4mprjvfqywo45dfcaxrwqg6qrlfid.onion/ |     |
 | Burn4Privacy | http://tabe66om7ikjspiobt3tfnj3mn2t4yklbzbmpmquu75dceyd7mxv7kqd.onion | Disposable SMS using real SIM Cards |
+| Mail2Tor| http://mail2torjgmxgexntbrmhvgluavhj7ouul5yar6ylbvjkxwqf6ixkwyd.onion/ | communication free anonymous e-mail service|
 | Search Breached Facebook | http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion |  PAI   |
 | SONOR Chat | http://sonarmsng5vzwqezlvtu2iiwwdn3dxkhotftikhowpfjuzg7p3ca5eid.onion/ |  Communication   |
 | SNOPYT PRIVACY SERVICES | http://cct5wy6mzgmft24xzw6zeaf55aaqmo6324gjlsghdhbiw5gdaaf4pkad.onion/ |  Web Services   |
