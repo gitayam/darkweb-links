@@ -16,9 +16,8 @@ The dark web is not just for "CRIME", it is also for privacy and bypassing censo
 |  BBC | 
     https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion
   | News  |
-|  Facebook | 
-    https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
-  | Social Media  |
+|  Facebook | https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion | Social Media  |
+| Twitter | https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion/explore | Social Media|
 | ProPublica | http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/ |  News   |
 | CIA | http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion/ |  Government   |
 | CloudFlare | https://dns4torpnlfs2ifuz2s2yf3fc7rdmsbhm6rw75euj35pac6ap25zgqad.onion/ |  Web   |
