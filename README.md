@@ -32,6 +32,7 @@ The dark web is not just for "CRIME", it is also for privacy and bypassing censo
 
 |  Service   |  TOR URL   |   Comments  |
 | --- | --- | --- |
+| AHMIA | http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/ | Search Engine| 
 | Dread | http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/ | Forum and marketplace |
 | Tor66 | http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/ | Search Engine for Tor |
 | TorVS | http://torvps7kzis5ujfz.onion/index.php/TorVPS | Virtual Private Server |
