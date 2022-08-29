@@ -26,6 +26,7 @@ The dark web is not just for "CRIME", it is also for privacy and bypassing censo
 |  Service   |  TOR URL   |   Comments  |
 | --- | --- | --- |
 | Mullvad VPN | http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/ | VPN    |
+| Tor Index Search | http://hctxrvjzfpvmzh2jllqhgvvkoepxb4kfzdjm6h7egcwlumggtktiftid.onion/ | search TOR services and servers|
 
 
 # Dark Web
